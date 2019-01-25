@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/idds/.platformio/penv/bin:/home/idds/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/sbin:/usr/sbin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/home/idds/Android/Sdk/tools:/home/idds/Android/Sdk/platform-tools",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
