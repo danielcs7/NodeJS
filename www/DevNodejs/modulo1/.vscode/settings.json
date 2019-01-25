@@ -1,6 +1,0 @@
-{
-    "editor.fontFamily": "'Fira Code",
-    "editor.formatOnType": true,
-    "prettier.eslintIntegration":true,
-    "editor.formatOnSave": true
-}
