@@ -1,0 +1,58 @@
+{
+  "folders": [
+	{
+		"path": "modulo3"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/TestLora",
+		"name": "TestLora"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/Esp8266-DisplayMatrix",
+		"name": "Esp8266-DisplayMatrix"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/Esp8266-Kaypad-teclado",
+		"name": "Esp8266-Kaypad-teclado"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/Esp8266-WebServer",
+		"name": "Esp8266-WebServer"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/Esp8266-Telegram",
+		"name": "Esp8266-Telegram"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/SensorsMV",
+		"name": "SensorsMV"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/TestEsp8266-BME280",
+		"name": "TestEsp8266-BME280"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/TestEsp32-BME280",
+		"name": "TestEsp32-BME280"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/TelegramESP32",
+		"name": "TelegramESP32"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/BrewCode",
+		"name": "BrewCode"
+	},
+	{
+		"path": "/home/iab/Documents/PlatformIO/Projects/TestBrewCode",
+		"name": "TestBrewCode"
+	}
+],
+  "settings": {
+    "git.ignoreLimitWarning": true,
+    "terminal.integrated.env.linux": {
+      "PATH": "/home/iab/.platformio/penv/bin:/home/iab/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/sbin:/usr/sbin:/usr/lib/jvm/jdk1.8.0_191/bin",
+      "PLATFORMIO_CALLER": "vscode"
+    }
+  }
+}
